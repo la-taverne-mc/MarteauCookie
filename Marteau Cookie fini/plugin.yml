@@ -1,0 +1,6 @@
+name: MarteauCookie
+version: 2
+author: Mr_cookie_112
+main: be.mrcookie112.marteaucookie.Monplugin
+depend: [WorldGuard, WorldEdit]
+api-version: 1.21
